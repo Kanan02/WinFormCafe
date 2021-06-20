@@ -463,7 +463,7 @@ namespace HW1
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox1);
             this.Name = "BestOil";
-            this.Text = "Ex8";
+            this.Text = "BestOil";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.BestOil_FormClosed);
             this.RadioButtons.ResumeLayout(false);
             this.RadioButtons.PerformLayout();

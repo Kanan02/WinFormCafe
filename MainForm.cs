@@ -31,6 +31,16 @@ namespace HW1
             Ex3 ex3 = new Ex3();
             ex3.ShowDialog();
         }
+        private void EX6_button_Click(object sender, EventArgs e)
+        {
+            Ex6 ex6 = new Ex6();
+            ex6.ShowDialog();
+        }
+          private void EX7_button_Click(object sender, EventArgs e)
+        {
+            Ex7 ex7 = new Ex7();
+            ex7.ShowDialog();
+        }
 
         private void EX8_button_Click(object sender, EventArgs e)
         {

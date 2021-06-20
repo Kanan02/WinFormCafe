@@ -251,7 +251,7 @@ namespace HW1
 
         private void BestOil_FormClosed(object sender, FormClosedEventArgs e)
         {
-            MessageBox.Show($"Ваша выручка за день: {allSum}.грн","Ежедневная выручка");
+            MessageBox.Show($"Ваша выручка за день: {allSum} грн.","Ежедневная выручка");
 
         }
     }
