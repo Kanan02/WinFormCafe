@@ -58,6 +58,7 @@ namespace HW1
             this.EX5_button.TabIndex = 1;
             this.EX5_button.Text = "EX5";
             this.EX5_button.UseVisualStyleBackColor = true;
+            this.EX5_button.Click += new System.EventHandler(this.EX5_button_Click);
             // 
             // EX3_button
             // 
@@ -79,6 +80,7 @@ namespace HW1
             this.EX4_button.TabIndex = 3;
             this.EX4_button.Text = "EX4";
             this.EX4_button.UseVisualStyleBackColor = true;
+            this.EX4_button.Click += new System.EventHandler(this.EX4_button_Click);
             // 
             // EX6_button
             // 

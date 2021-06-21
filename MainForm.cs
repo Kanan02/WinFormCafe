@@ -47,5 +47,17 @@ namespace HW1
             BestOil ex8 = new BestOil();
             ex8.ShowDialog();
         }
+
+        private void EX4_button_Click(object sender, EventArgs e)
+        {
+            Ex4 ex4 = new Ex4();
+            ex4.ShowDialog();
+        }
+
+        private void EX5_button_Click(object sender, EventArgs e)
+        {
+            Ex5 ex5 = new Ex5();
+            ex5.ShowDialog();
+        }
     }
 }

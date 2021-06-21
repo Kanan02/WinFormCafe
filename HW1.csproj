@@ -53,6 +53,18 @@
     <Compile Include="Ex3.Designer.cs">
       <DependentUpon>Ex3.cs</DependentUpon>
     </Compile>
+    <Compile Include="Ex4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ex4.Designer.cs">
+      <DependentUpon>Ex4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ex5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ex5.Designer.cs">
+      <DependentUpon>Ex5.cs</DependentUpon>
+    </Compile>
     <Compile Include="Ex6.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,6 +100,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Ex3.resx">
       <DependentUpon>Ex3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ex4.resx">
+      <DependentUpon>Ex4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ex5.resx">
+      <DependentUpon>Ex5.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Ex6.resx">
       <DependentUpon>Ex6.cs</DependentUpon>

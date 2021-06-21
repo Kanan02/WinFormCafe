@@ -69,6 +69,7 @@ namespace HW1
             textBox5.Text = "";
             textBox7.Text = "";
             label6.Text = "0";
+            sum.Text = " ";
             SumOrLit.Text = "0";
             checkBox1.Enabled = false;
             checkBox2.Enabled = false;
